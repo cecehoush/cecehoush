@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/CeceHoush">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=#b4cded&center=true&vCenter=true&width=435&lines=Cece+Housh+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=#1DB954&center=true&vCenter=true&width=435&lines=Cece+Housh+" alt="Typing SVG" />
   </a>
 </p>
 
