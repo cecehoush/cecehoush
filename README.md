@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-  Vistor Count<br>
   <img src"<p align="center"> 
-  Visitor count<br>
+  Visitors: <br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
