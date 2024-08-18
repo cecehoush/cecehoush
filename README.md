@@ -15,3 +15,5 @@
   Visitors: <br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+
+[![CeceHoush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CeceHoush&bg_color=212121&line=48BEFF&title_color=136F63&color=136F63)](https://github.com/CeceHoush)
