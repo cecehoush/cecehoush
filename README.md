@@ -10,12 +10,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src"<p align="center"> 
-  Visitors: <br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
+<div align="center">
+        <img alt="Viewers" 
+            src="https://widgetbite.com/stats/CeceHoush"/>  
+</div>
+    
 <h2> Github Stats </h2> 
 <a href="https://github.com/CeceHoush/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeceHoush&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=CeceHoush&theme=tokyonight" alt="CeceHoush" />
